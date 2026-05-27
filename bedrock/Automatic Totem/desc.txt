@@ -1,0 +1,7 @@
+Achievement Friendly: Built using native inventory handling methods, this pack will not disable achievements or flag your survival world as modified.
+
+Smart Shield Override: The mod stays completely out of the way when you need tactical defense. Equipping a shield overrides the automation seamlessly until you're ready to swap back.
+
+Direct Inventory Sorting: It constantly scans your pocket grids in real-time, grabbing spare totems from anywhere in your inventory the exact millisecond your off-hand clears.
+
+Zero Frame Drops: Highly optimized asset execution ensures zero tick lag, keeping your FPS high during intense base raids or deep cave dives.

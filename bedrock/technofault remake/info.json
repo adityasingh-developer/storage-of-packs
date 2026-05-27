@@ -1,0 +1,13 @@
+{
+  "name": "Technofault Remake",
+  "semiDescription": "A clean remake pack of Technofault by The1NOnly...",
+  "descriptionFile": "desc.txt",
+  "downloadFile": "TechnoBlade.mcpack",
+  "links": {
+    "Movie": "https://www.youtube.com/watch?v=SBtS-n1j4U4",
+    "The Legend of Technoblade": "https://www.youtube.com/watch?v=N_dIRLhSNaE",
+    "Legacy of Technoblade": "https://www.youtube.com/watch?v=N_dIRLhSNaE",
+    "Saracoma Foundation": "https://curesarcoma.org/ways-to-help/donate/donor-campaign/?campaign=technoblade"
+  },
+  "type" : "resource"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Automatic Totem",
+  "semiDescription": "Hands-free totem swapping. Zero script lag, maximum safety",
+  "descriptionFile": "desc.txt",
+  "downloadFile": "AutomaticTotem.mcpack",
+  "type" : "resource"
+}

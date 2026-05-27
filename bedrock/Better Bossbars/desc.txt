@@ -1,0 +1,18 @@
+Stylish Boss Bars Mod
+Transform your boss battles into cinematic, epic encounters. Stylish Boss Bars completely overhauls the plain, standard vanilla tracking meters with custom-crafted, ornate art frames and smooth health animations tailored to match the theme of each specific boss.
+
+Key Features
+Bespoke Artistic Borders: Each boss receives a uniquely themed frame—featuring sharp metal engravings, glowing neon cores, or ancient runic symbols.
+
+Fluid Health Drops: Features smooth, cascading particle animations when a boss takes massive damage, giving real weight to every critical hit.
+
+Dynamic Raid & Mod Support: Automatically applies stylized, premium tracking themes to multiplayer village raids and matching modded entities.
+
+Minor Texture Lag: Built using optimized resolution layers to ensure the beautiful design elements never cause screen micro-stutters during heavy combat.
+
+How to Use
+Load the Pack: Activate the assets in your global resource configuration panel.
+
+Summon a Threat: Engage any primary boss or start a global server raid event.
+
+Immerse Yourself: Watch the standard interface transform instantly into a stylish, high-tier boss bar frame layout.

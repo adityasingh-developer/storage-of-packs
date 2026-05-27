@@ -1,0 +1,7 @@
+{
+  "name": "Hunger Teller",
+  "semiDescription": "A pack that tells how much hunger a food gives you",
+  "descriptionFile": "desc.txt",
+  "downloadFile": "HungerTeller.mcpack",
+  "type" : "resource"
+}

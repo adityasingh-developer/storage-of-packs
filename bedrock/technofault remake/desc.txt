@@ -1,0 +1,44 @@
+I made Technofault remake as a tribute to Technoblade who died from Sarcoma, a rare form of cancer, in 2022. This pack features countless references to Techno's videos as well as many utility textures and some general improvements to vanilla Minecraft.
+
+About:
+Technofault is based on the resourcepack Tightfault, which Technoblade used in many of his videos, including his SkyBlock series.
+The original version of Tightfault made by Tight for 1.8.9
+
+Also DO NOT HIT a witch, because it will make absurd sound
+Enchanting Table book is The Art of War by Sun Tzu
+Golden Helmets are Technoblade’s Golden Crown
+Multiple Paintings are Techno-themed Paintings
+When a Totem pops, you can hear Techno say "Not even close baby!"
+Menu Splashes are Technoblade quotes
+Menu Panorama is Technoblade's Cabin (for 1.21)
+Totems of Undying are Techno Totems and many things meo
+You should ONLY download Technofault from Adimods. If you find Technofault on any other sites, it is NOT published by me and may NOT be safe to download.
+
+Extras:
+
+You can donate to cancer research in Technoblade's name here at the Sarcoma Foundation of America!
+
+Go watch Technoblade Never Dies, an amazing animated movie by Squared Media, directed by Mont27P!
+
+You should also check out EvanMCGaming's two-part documentary about Technoblade's career:
+1: The Legend of Technoblade 2: The Legacy of Technoblade
+
+If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.
+- Romans 10:9
+
+For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.
+- Ephesians 2:8-9
+Credits
+This pack is a community-inspired Technoblade tribute and PvP mashup remake. Because many of these assets have been shared, edited, and passed around the PvP community for years, the original creators of every single file are hard to track down, but immense credit goes to:
+
+The Technoblade Community: For the original base ideas, textures, and concepts inspired by Techno's iconic videos (including the classic low-fire, short swords, etc.).
+
+TimeDeo & Tight: For the original inspiration behind classic Technoblade PvP assets and default-edit revamps.
+
+Community Pixel Artists: To the anonymous artists who created the base 16x textures used in this mashup.
+
+Aditya: For compiling, modifying, optimizing, and rewriting the code/manifest for this specific Bedrock remake.
+
+If you recognize your specific pixel art or assets in this pack, please reach out with proof! I would love to add your exact username directly to these credits.
+
+Progress	Not 100% complete

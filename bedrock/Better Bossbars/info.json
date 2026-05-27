@@ -1,0 +1,7 @@
+{
+  "name": "Better BossBars",
+  "semiDescription": "Epic, dark-fantasy themed health bars for an immersive boss battle interface.",
+  "descriptionFile": "desc.txt",
+  "downloadFile": "BetterBossBars.mcpack",
+  "type" : "resource"
+}

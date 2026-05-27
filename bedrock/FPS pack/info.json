@@ -1,0 +1,7 @@
+{
+  "name": "FPS pack",
+  "semiDescription": "A pack to increase your fps and smoothen the gameplay",
+  "descriptionFile": "desc.txt",
+  "downloadFile": "FPSpack.mcpack",
+  "type" : "resource"
+}

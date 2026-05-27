@@ -1,0 +1,12 @@
+Hunger Teller Mod
+Never guess or waste your food resources again. Hunger Teller is an essential quality-of-life utility that takes the guesswork out of survival mechanics by displaying precise hunger and saturation metrics directly on your interface.
+
+Instead of memorizing values or blindly eating expensive food items, this pack gives you an instant, visual preview of exactly how much value a food item provides before you even take a bite.
+
+Key Features
+
+Visual Hunger Previews: Automatically displays clean hunger bar indicators right next to the item name, showing you exactly how many drumsticks the food item will restore.
+
+Full Inventory Integration: Works seamlessly inside your standard inventory screen, hotbar selections, chest storage systems, and crafting menus.
+
+100% Achievement Safe: Built natively as an interface utility. Activating this pack will not disable your world achievements or flag your survival progress.
